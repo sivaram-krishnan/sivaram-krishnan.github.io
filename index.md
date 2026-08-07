@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 ![Dr. Sivaram Krishnan](header.png)
 
 # Dr. Sivaram Krishnan
