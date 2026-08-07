@@ -1,0 +1,8 @@
+title: Your Name | Academic Portfolio
+description: PhD Candidate / Researcher at University
+theme: jekyll-theme-minimal
+header_pages:
+  - index.md
+  - publications.md
+  - projects.md
+  - interests.md
