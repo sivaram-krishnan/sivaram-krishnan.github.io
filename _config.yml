@@ -1,6 +1,6 @@
 title: Sivaram Krishnan | Academic Portfolio
 description: Research Fellow
-theme: jekyll-theme-minimal
+theme: minima
 header_pages:
   - index.md
   - publications.md
