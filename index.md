@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![Dr. Sivaram Krishnan](header.jpg)
+![Dr. Sivaram Krishnan](header.png)
 
 # Dr. Sivaram Krishnan
 
