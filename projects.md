@@ -7,8 +7,7 @@ title: Projects
 
 <div style="display: flex; align-items: center; gap: 30px; margin-bottom: 30px;">
   <img src="etri.png" alt="ETRI" height="60">
-  <img src="dstg.png" alt="DSTG" height="60">
-  <img src="cadr-ras.png" alt="CADR-RAS" height="60">
+  <img src="dstg.jpg" alt="DSTG" height="60">
 </div>
  
 ---
