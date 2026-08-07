@@ -3,45 +3,55 @@ layout: default
 title: Home
 ---
 
-# Sivaram Krishnan
+![Dr. Sivaram Krishnan](header.jpg)
 
-**Academic & Researcher**  
+# Dr. Sivaram Krishnan
+
+**Research Fellow**  
 School of Electrical and Mechanical Engineering (EME)  
 The University of Adelaide  
-Adelaide, SA 5005, Australia  
+Adelaide, SA 5000, Australia  
 
 📧 **Email:** [sivaram.krishnan@adelaide.edu.au](mailto:sivaram.krishnan@adelaide.edu.au)  
-🔗 **Links:** [University Profile](https://www.adelaide.edu.au) | [Google Scholar](#) | [ORCID](#) | [LinkedIn](#) | [Download CV (PDF)](#)
+🔗 **Links:** [Google Scholar](https://scholar.google.com/citations?user=3HX0ZDMAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/sivaram-krishnan11/)
 
 ---
 
 ## About Me
 
-Welcome! I am an academic and researcher based in the **School of Electrical and Mechanical Engineering (EME)** at **The University of Adelaide**.
+I am a Postdoc in the **School of Electrical and Mechanical Engineering (EME)** at **Adelaide University**, where I also completed my Ph.D. in Electrical and Mechanical Engineering (2022–2026) under the supervision of Prof. Jinho Choi, Prof. Jihong Park, and A/Prof. Brian Ng. 
 
-My research lies at the intersection of **[Insert Main Discipline, e.g., Control Systems, Renewable Energy, Robotics, or Thermal Fluids]**. I work on developing [insert core research goal, e.g., efficient energy conversion methods, intelligent automation, or advanced engineering materials].
+My research focuses on **Graph-based Methods for Prediction and Control**, with a particular emphasis on AI for wireless networks, Graph Neural Networks (GNNs), Spatio-Temporal prediction, Koopman theory, and Reinforcement Learning (RL). I currently work on GNN and SDN architectures for **6G LEO satellite mega-constellations** and Non-Terrestrial Networks (NTN).
 
 ---
 
 ## Research Interests
 
-* **Core Focus 1:** [e.g., Smart Grid Integration & Energy Systems]
-* **Core Focus 2:** [e.g., Autonomous Systems & Robotics]
-* **Core Focus 3:** [e.g., Advanced Materials & Structural Mechanics]
-* **Core Focus 4:** [e.g., Computational Modeling & Signal Processing]
+* **AI for Wireless Networks & 6G NTN:** Satellite mega-constellations, UAV routing, and covert communications.
+* **Graph Neural Networks (GNN):** Spatio-temporal prediction, graph signal processing, and federated subgraph learning.
+* **Dynamical Systems & Control:** Koopman theory for non-linear dynamics, predictive optimization, and reinforcement learning.
 
 ---
 
-## News & Updates
+## Recent News & Highlights
 
-* **[Aug 2026]** – Paper accepted for presentation at *[Conference/Journal Name]*.
-* **[May 2026]** – Awarded research grant for *[Project Title/Grant Name]*.
-* **[Jan 2026]** – Updated course materials for *[Course Code/Name]* for Semester 1.
+* **[2026]** – Paper accepted: *"Reinforcement Learning for Opportunistic Routing in Software-Defined LEO–Terrestrial Systems"* in *IEEE Wireless Communications Letters*.
+* **[2026]** – Joined the 6G LEO Mega-constellation project supported by the Electronics and Telecommunications Research Institute (ETRI), South Korea.
+* **[2025]** – Paper accepted: *"Learning Time-Varying Graph Signals via Koopman"* in *IEEE Transactions on Signal and Information Processing over Networks (TSIPN)*.
+* **[2025]** – Presented research at **IEEE ICASSP 2025** and **IEEE IJCNN 2025**.
+
+---
+
+## Education
+
+* **Ph.D. in Electrical and Mechanical Engineering** | *Adelaide University* (2022 – 2026)  
+  *Thesis:* Graph-based Methods for Prediction and Control
+* **Master of Data Science** | *Deakin University* (2020 – 2022)  
+* **Bachelor of Computer Engineering** | *Sinhgad Academy of Engineering* (2014 – 2018)
 
 ---
 
 ## Contact & Location
 
-* **Office:** Room [X.XX], [Building Name, e.g., Engineering North Building]
-* **Campus:** North Terrace Campus, The University of Adelaide
-* **Post:** School of Electrical & Mechanical Engineering, The University of Adelaide, SA 5005
+* **Office:** School of Electrical & Mechanical Engineering
+* **Campus:** Level 3, Ingkarni Wardli, Adelaide University, SA 5005
