@@ -3,24 +3,30 @@ layout: default
 title: Home
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 25px; flex-wrap: wrap;">
-  <img src="header.png" alt="Dr. Sivaram Krishnan" width="170" style="border-radius: 8px; max-width: 100%; height: auto; object-fit: cover;">
-  <div style="flex: 1; min-width: 250px;">
-    <h1 style="margin-top: 0; margin-bottom: 6px;">Dr. Sivaram Krishnan</h1>
-    <p style="margin-bottom: 8px; line-height: 1.4;">
-      <strong>Research Fellow</strong><br>
-      School of Electrical and Mechanical Engineering (EME)<br>
-      Adelaide University<br>
-      Adelaide, SA 5000, Australia
-    </p>
-    <p style="margin-bottom: 0; line-height: 1.5;">
-      📧 <strong>Email:</strong> <a href="mailto:sivaram.krishnan@adelaide.edu.au">sivaram.krishnan@adelaide.edu.au</a><br>
-      🔗 <strong>Links:</strong> <a href="https://scholar.google.com/citations?user=3HX0ZDMAAAAJ&hl=en" target="_blank">Google Scholar</a> | <a href="https://www.linkedin.com/in/sivaram-krishnan11/" target="_blank">LinkedIn</a>
-    </p>
+<div style="background: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 24px; margin-bottom: 25px;">
+  <div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap;">
+    <img src="header.png" alt="Dr. Sivaram Krishnan" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover; border: 3px solid #ffffff; box-shadow: 0 2px 6px rgba(0,0,0,0.1); flex-shrink: 0;">
+    <div style="flex: 1; min-width: 250px;">
+      <h1 style="margin: 0 0 4px 0; font-size: 1.75em; color: #1a1a1a; border-bottom: none; padding-bottom: 0; line-height: 1.2;">Dr. Sivaram Krishnan</h1>
+      <p style="margin: 0 0 8px 0; font-size: 1.05em; color: #0056b3; font-weight: 600;">Research Fellow</p>
+      <p style="margin: 0 0 12px 0; font-size: 0.9em; color: #495057; line-height: 1.4;">
+        School of Electrical and Mechanical Engineering (EME)<br>
+        Adelaide University | Adelaide, SA 5000, Australia
+      </p>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 10px;">
+        <a href="mailto:sivaram.krishnan@adelaide.edu.au" style="text-decoration: none; background: #ffffff; color: #333; padding: 4px 10px; border-radius: 6px; font-size: 0.82em; border: 1px solid #ced4da; font-weight: 500;">📧 Email</a>
+        <a href="https://scholar.google.com/citations?user=3HX0ZDMAAAAJ&hl=en" target="_blank" style="text-decoration: none; background: #4285f4; color: #ffffff; padding: 4px 10px; border-radius: 6px; font-size: 0.82em; font-weight: 500;">Google Scholar</a>
+        <a href="https://www.linkedin.com/in/sivaram-krishnan11/" target="_blank" style="text-decoration: none; background: #0a66c2; color: #ffffff; padding: 4px 10px; border-radius: 6px; font-size: 0.82em; font-weight: 500;">LinkedIn</a>
+      </div>
+      <div style="display: flex; gap: 6px; flex-wrap: wrap;">
+        <span style="background: #e7f5ff; color: #1971c2; font-size: 0.75em; padding: 2px 8px; border-radius: 4px; font-weight: 600;">GNNs</span>
+        <span style="background: #e7f5ff; color: #1971c2; font-size: 0.75em; padding: 2px 8px; border-radius: 4px; font-weight: 600;">6G NTN</span>
+        <span style="background: #e7f5ff; color: #1971c2; font-size: 0.75em; padding: 2px 8px; border-radius: 4px; font-weight: 600;">Koopman Theory</span>
+        <span style="background: #e7f5ff; color: #1971c2; font-size: 0.75em; padding: 2px 8px; border-radius: 4px; font-weight: 600;">Reinforcement Learning</span>
+      </div>
+    </div>
   </div>
 </div>
-
----
 
 ## About Me
 
@@ -38,7 +44,7 @@ My research focuses on **Graph-based Methods for Prediction and Control**, with 
 
 ---
 
-## Recent News & Highlights
+## Recent News 
 
 * **[2026]** – Paper accepted: *"Reinforcement Learning for Opportunistic Routing in Software-Defined LEO–Terrestrial Systems"* in *IEEE Wireless Communications Letters*.
 * **[2025]** – Paper accepted: *"Learning Time-Varying Graph Signals via Koopman"* in *IEEE Transactions on Signal and Information Processing over Networks (TSIPN)*.
