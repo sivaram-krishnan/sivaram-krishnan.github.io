@@ -9,7 +9,7 @@ title: Home
 
 **Research Fellow**  
 School of Electrical and Mechanical Engineering (EME)  
-The University of Adelaide  
+Adelaide University 
 Adelaide, SA 5000, Australia  
 
 📧 **Email:** [sivaram.krishnan@adelaide.edu.au](mailto:sivaram.krishnan@adelaide.edu.au)  
@@ -36,7 +36,6 @@ My research focuses on **Graph-based Methods for Prediction and Control**, with 
 ## Recent News & Highlights
 
 * **[2026]** – Paper accepted: *"Reinforcement Learning for Opportunistic Routing in Software-Defined LEO–Terrestrial Systems"* in *IEEE Wireless Communications Letters*.
-* **[2026]** – Joined the 6G LEO Mega-constellation project supported by the Electronics and Telecommunications Research Institute (ETRI), South Korea.
 * **[2025]** – Paper accepted: *"Learning Time-Varying Graph Signals via Koopman"* in *IEEE Transactions on Signal and Information Processing over Networks (TSIPN)*.
 * **[2025]** – Presented research at **IEEE ICASSP 2025** and **IEEE IJCNN 2025**.
 
