@@ -5,40 +5,48 @@ title: Publications
 
 # Publications
 
-[Google Scholar Profile](https://scholar.google.com) \| [ORCID Profile](https://orcid.org) \| [Scopus Profile](#)
+🔗 [Google Scholar Profile](https://scholar.google.com/citations?user=3HX0ZDMAAAAJ&hl=en)
 
 ---
 
-## Journal Articles (Peer-Reviewed)
+## Submitted & Under Review
 
-* **S. Krishnan**, A. Smith, and C. Johnson, "Advanced Control Strategies for Next-Generation Microgrids in Smart Grids," *IEEE Transactions on Smart Grid*, vol. 15, no. 3, pp. 1234–1245, 2026.  
-  [ [DOI](https://doi.org) ] [ [PDF](assets/pdf/paper1.pdf) ] [ [Code](https://github.com) ]
+* **S. Krishnan**, "Toward Scalable SDN for LEO Mega-Constellations: A Graph Learning Approach," *submitted to IEEE Communications Magazine*.
 
-* **S. Krishnan** and R. Taylor, "Thermal-Fluid Analysis of High-Efficiency Energy Conversion Systems," *Journal of Fluid Mechanics*, vol. 910, p. A12, 2025.  
-  [ [DOI](https://doi.org) ] [ [PDF](assets/pdf/paper2.pdf) ]
-
-* M. Davis, **S. Krishnan**, and K. Lee, "Autonomous Robotic Systems for Industrial Automation," *Robotics and Computer-Integrated Manufacturing*, vol. 82, p. 102550, 2024.  
-  [ [DOI](https://doi.org) ] [ [PDF](assets/pdf/paper3.pdf) ] [ [Dataset](https://zenodo.org) ]
+* **S. Krishnan**, "Forecast-Driven Routing in LEO Satellite Constellations," *submitted to IEEE Wireless Communications Letters*.
 
 ---
 
+## Journal Articles
+
+* **S. Krishnan**, Z. Gu, J. Park, S. Oh, and J. Choi, "Reinforcement Learning for Opportunistic Routing in Software-Defined LEO–Terrestrial Systems," *submitted to IEEE Wireless Communications Letters (WCL)*.
+
+* **S. Krishnan**, J. Choi, and J. Park, "Learning Time-Varying Graph Signals via Koopman," *IEEE Transactions on Signal and Information Processing over Networks (TSIPN)*, 2025.
+
+* **S. Krishnan**, J. Park, S. Sagar, G. Sherman, B. Campbell, and J. Choi, "Predictive Covert Communication Against Multi-UAV Surveillance Using Graph Koopman Autoencoder," *IEEE Transactions on Vehicular Technology (TVT)*, 2024.
+
+* J. Choi, **S. Krishnan**, and J. Park, "Latency-Optimal Resource Allocation for UAV-Aided LEO Communication," *IEEE Transactions on Vehicular Technology (TVT)*, 2024.
+
+* M. Nemati, B. Homassi, **S. Krishnan**, J. Park, S. Loke, and J. Choi, "Non-Terrestrial Networks with UAVs: A Projection on Flying Ad-Hoc Networks," *MDPI Drones*, 2022.
+
+---
 ## Conference Proceedings
 
-* **S. Krishnan** and E. Wilson, "Optimization Techniques for Distributed Renewable Generation," in *Proceedings of the IEEE International Conference on Industrial Technology (ICIT)*, Adelaide, Australia, 2025, pp. 1–6.  
-  [ [DOI](https://doi.org) ] [ [PDF](assets/pdf/conference1.pdf) ] [ [Slides](assets/pdf/slides1.pdf) ]
+* **S. Krishnan**, J. Park, and J. Choi, "Graph Signal Reconstruction via Koopman Autoencoder," *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2025.
 
-* J. Doe, **S. Krishnan**, and H. Brown, "Experimental Validation of Adaptive Control in Dynamic Environments," in *Proceedings of the Australasian Control Conference (AUCC)*, Sydney, Australia, 2024, pp. 45–50.  
-  [ [DOI](https://doi.org) ] [ [PDF](assets/pdf/conference2.pdf) ]
+* **S. Krishnan**, J. Choi, J. Park, G. Sherman, and B. Campbell, "Koopman-Based Prediction of Connectivity for Flying Ad Hoc Network," *IEEE International Joint Conference on Neural Networks (IJCNN)*, 2025.
 
----
+* J. Choi, **S. Krishnan**, and J. Park, "Koopman Autoencoder via Singular Value Decomposition for Data-Driven Long-Term Prediction," *IEEE International Workshop on Machine Learning for Signal Processing (MLSP)*, 2024.
 
-## Preprints & Working Papers
+* J. Choi, **S. Krishnan**, and J. Park, "Low-Latency Resource Allocation for Store-and-Forward Transmission in UAV-Aided LEO Communication" *IEEE Vehicular Technology Conference (VTC Spring)*, 2024.
 
-* **S. Krishnan** and M. Patel, "Data-Driven Fault Diagnosis in Complex Mechanical Systems," *arXiv preprint arXiv:2601.12345*, 2026. (Under Review)  
-  [ [arXiv](https://arxiv.org) ] [ [PDF](assets/pdf/preprint1.pdf) ]
+* **S. Krishnan**, J. Park, G. Sherman, B. Campbell, and J. Choi, "Graph Koopman Autoencoder for Predictive Covert Communication Against UAV Surveillance," *IEEE Vehicular Technology Conference (VTC Spring)*, 2024.
 
----
+* **S. Krishnan**, M. Nemati, S. Loke, J. Park, and J. Choi, "Energy-Efficient UAV-Assisted IoT Data Collection via TSP-Based Solution Space Reduction," *IEEE Global Communications Conference (GLOBECOM)*, 2023.
 
-## Patents & Technical Reports
+* **S. Krishnan**, J. Park, S. Sagar, G. Sherman, B. Campbell, and J. Choi, "Federated Graph Learning for Low Probability of Detection in Wireless Ad-Hoc Networks," *IEEE Statistical Signal Processing Workshop (SSP)*, 2023.
 
-* **S. Krishnan**, "Method and Apparatus for High-Efficiency Power Conversion," Australian Patent Application 2025901234, filed November 2025.
+## Peer Review Service
+
+* **Journals:** IEEE Transactions on Mobile Computing (TMC), IEEE Transactions on Vehicular Technology (TVT), IEEE Wireless Communications Letters (WCL).
+* **Conferences:** IEEE GLOBECOM, IEEE WCNC.
