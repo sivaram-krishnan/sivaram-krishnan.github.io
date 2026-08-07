@@ -1,14 +1,24 @@
-![Dr. Sivaram Krishnan](header.png)
+---
+layout: default
+title: Home
+---
 
-# Dr. Sivaram Krishnan
-
-**Research Fellow**  
-School of Electrical and Mechanical Engineering (EME)  
-Adelaide University 
-Adelaide, SA 5000, Australia  
-
-📧 **Email:** [sivaram.krishnan@adelaide.edu.au](mailto:sivaram.krishnan@adelaide.edu.au)  
-🔗 **Links:** [Google Scholar](https://scholar.google.com/citations?user=3HX0ZDMAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/sivaram-krishnan11/)
+<div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 25px; flex-wrap: wrap;">
+  <img src="header.png" alt="Dr. Sivaram Krishnan" width="170" style="border-radius: 8px; max-width: 100%; height: auto; object-fit: cover;">
+  <div style="flex: 1; min-width: 250px;">
+    <h1 style="margin-top: 0; margin-bottom: 6px;">Dr. Sivaram Krishnan</h1>
+    <p style="margin-bottom: 8px; line-height: 1.4;">
+      <strong>Research Fellow</strong><br>
+      School of Electrical and Mechanical Engineering (EME)<br>
+      Adelaide University<br>
+      Adelaide, SA 5000, Australia
+    </p>
+    <p style="margin-bottom: 0; line-height: 1.5;">
+      📧 <strong>Email:</strong> <a href="mailto:sivaram.krishnan@adelaide.edu.au">sivaram.krishnan@adelaide.edu.au</a><br>
+      🔗 <strong>Links:</strong> <a href="https://scholar.google.com/citations?user=3HX0ZDMAAAAJ&hl=en" target="_blank">Google Scholar</a> | <a href="https://www.linkedin.com/in/sivaram-krishnan11/" target="_blank">LinkedIn</a>
+    </p>
+  </div>
+</div>
 
 ---
 
@@ -47,5 +57,5 @@ My research focuses on **Graph-based Methods for Prediction and Control**, with 
 
 ## Contact & Location
 
-* **Office:** School of Electrical & Mechanical Engineering
-* **Campus:** Level 3, Ingkarni Wardli, Adelaide University, SA 5005
+* **Office:** Level 3, Ingkarni Wardli, Adelaide University, SA 5005
+* **Department:** School of Electrical & Mechanical Engineering
