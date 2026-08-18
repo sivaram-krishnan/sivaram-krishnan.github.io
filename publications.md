@@ -13,17 +13,19 @@ title: Publications
 
 * **S. Krishnan**, "Toward Scalable SDN for LEO Mega-Constellations: A Graph Learning Approach," *submitted to IEEE Communications Magazine*.
 
-* **S. Krishnan**, "Forecast-Driven Routing in LEO Satellite Constellations," *submitted to IEEE Wireless Communications Letters*.
+* **S. Krishnan**, S. Oh, and J. Choi, "Forecast-Driven Routing in LEO Satellite Constellations," *submitted to IEEE Wireless Communications Letters*.
+
+* **S. Krishnan** and J. Choi, "Graph Koopman AutoEncoder for Prediction-based Network Management in Mega Constellations," *submitted to KICS International Conference on ICT Convergence*.
 
 ---
 
 ## Journal Articles
 
-* **S. Krishnan**, Z. Gu, J. Park, S. Oh, and J. Choi, "Reinforcement Learning for Opportunistic Routing in Software-Defined LEO–Terrestrial Systems," *submitted to IEEE Wireless Communications Letters (WCL)*.
+* **S. Krishnan**, Z. Gu, J. Park, S. Oh, and J. Choi, "Reinforcement Learning for Opportunistic Routing in Software-Defined LEO–Terrestrial Systems," *IEEE Wireless Communications Letters (WCL)*.
 
 * **S. Krishnan**, J. Choi, and J. Park, "Learning Time-Varying Graph Signals via Koopman," *IEEE Transactions on Signal and Information Processing over Networks (TSIPN)*, 2025.
 
-* **S. Krishnan**, J. Park, S. Sagar, G. Sherman, B. Campbell, and J. Choi, "Predictive Covert Communication Against Multi-UAV Surveillance Using Graph Koopman Autoencoder," *IEEE Transactions on Vehicular Technology (TVT)*, 2024.
+* **S. Krishnan**, J. Park, G. Sherman, B. Campbell, and J. Choi, "Predictive Covert Communication Against Multi-UAV Surveillance Using Graph Koopman Autoencoder," *IEEE Transactions on Vehicular Technology (TVT)*, 2024.
 
 * J. Choi, **S. Krishnan**, and J. Park, "Latency-Optimal Resource Allocation for UAV-Aided LEO Communication," *IEEE Transactions on Vehicular Technology (TVT)*, 2024.
 
@@ -48,5 +50,5 @@ title: Publications
 
 ## Peer Review Service
 
-* **Journals:** IEEE Transactions on Mobile Computing (TMC), IEEE Transactions on Vehicular Technology (TVT), IEEE Wireless Communications Letters (WCL).
+* **Journals:** IEEE Transactions on Mobile Computing (TMC), IEEE Transactions on Vehicular Technology (TVT).
 * **Conferences:** IEEE GLOBECOM, IEEE WCNC.
