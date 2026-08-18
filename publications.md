@@ -11,7 +11,7 @@ title: Publications
 
 ## Submitted & Under Review
 
-* **S. Krishnan**, "Toward Scalable SDN for LEO Mega-Constellations: A Graph Learning Approach," *submitted to IEEE Communications Magazine*.
+* **S. Krishnan, B. Homssi, Z. Gu, J. Park, S. Oh, and J. Choi**, "Toward Scalable SDN for LEO Mega-Constellations: A Graph Learning Approach," *submitted to IEEE Communications Magazine*.
 
 * **S. Krishnan**, S. Oh, and J. Choi, "Forecast-Driven Routing in LEO Satellite Constellations," *submitted to IEEE Wireless Communications Letters*.
 
