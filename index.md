@@ -32,8 +32,6 @@ title: Home
 
 I am a Postdoc in the **School of Electrical and Mechanical Engineering (EME)** at **Adelaide University**, where I also completed my Ph.D. in Electrical and Mechanical Engineering (2022–2026) under the supervision of Prof. Jinho Choi, Prof. Jihong Park, and A/Prof. Brian Ng. 
 
-My research focuses on **Graph-based Methods for Prediction and Control**, with a particular emphasis on AI for wireless networks, Graph Neural Networks (GNNs), Spatio-Temporal prediction, Koopman theory, and Reinforcement Learning (RL). I currently work on GNN and SDN architectures for **6G LEO satellite mega-constellations** and Non-Terrestrial Networks (NTN).
-
 ---
 
 ## Research Interests
@@ -45,7 +43,8 @@ My research focuses on **Graph-based Methods for Prediction and Control**, with 
 ---
 
 ## Recent News 
-
+* **[2026]** – Paper submitted: *"Forecast-Driven Routing in LEO Satellite Constellations"* in *IEEE Wireless Communications Letters*.
+* **[2026]** – Paper submitted: *"Toward Scalable SDN for LEO Mega-Constellations: A Graph Learning Approach"* in *IEEE  Communications Magazine*.
 * **[2026]** – Paper accepted: *"Reinforcement Learning for Opportunistic Routing in Software-Defined LEO–Terrestrial Systems"* in *IEEE Wireless Communications Letters*.
 * **[2025]** – Paper accepted: *"Learning Time-Varying Graph Signals via Koopman"* in *IEEE Transactions on Signal and Information Processing over Networks (TSIPN)*.
 * **[2025]** – Presented research at **IEEE ICASSP 2025** and **IEEE IJCNN 2025**.
@@ -55,7 +54,7 @@ My research focuses on **Graph-based Methods for Prediction and Control**, with 
 ## Education
 
 * **Ph.D. in Electrical and Mechanical Engineering** | *Adelaide University* (2022 – 2026)  
-  *Thesis:* Graph-based Methods for Prediction and Control
+  *Thesis:* Graph-based Methods for Prediction and Control in Non-terrestrial Networks
 * **Master of Data Science** | *Deakin University* (2020 – 2022)  
 * **Bachelor of Computer Engineering** | *Sinhgad Academy of Engineering* (2014 – 2018)
 
