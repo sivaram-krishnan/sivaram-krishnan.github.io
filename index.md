@@ -72,7 +72,6 @@ I am a Postdoc in the **School of Electrical and Mechanical Engineering (EME)** 
   *Thesis:* Graph-based Methods for Prediction and Control in Non-terrestrial Networks
 * **Master of Data Science** | *Deakin University* (2020 – 2022)  
 * **Bachelor of Computer Engineering** | *Sinhgad Academy of Engineering* (2014 – 2018)
-
 ---
 
 ## Contact & Location
