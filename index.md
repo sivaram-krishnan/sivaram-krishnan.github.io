@@ -50,6 +50,21 @@ I am a Postdoc in the **School of Electrical and Mechanical Engineering (EME)** 
 * **[2025]** – Presented research at **IEEE ICASSP 2025** and **IEEE IJCNN 2025**.
 
 ---
+## Teaching Duties
+
+### Adelaide University
+* **Mobile Communications and Wireless Access** | *Semester 2, 2026*
+  * Sessional Teaching Assistant
+* **Engineering Programming** | *Semester 1, 2026*
+  * Sessional Teaching Assistant
+* **Signal Processing Applications** | *Semester 1, 2025*
+  * Sessional Teaching Assistant (Undergraduate & Postgraduate)
+
+### Deakin University
+* **Research and Development in Information Technology** | *Trimester 1, 2024 & Trimester 1, 2023*
+  * Sessional Teaching Assistant
+
+---
 
 ## Education
 
