@@ -50,30 +50,29 @@ I am a Postdoc in the **School of Electrical and Mechanical Engineering (EME)** 
 * **[2025]** – Presented research at **IEEE ICASSP 2025** and **IEEE IJCNN 2025**.
 
 ---
+
 ## Teaching Duties
 
 ### Adelaide University
-* **Mobile Communications and Wireless Access** | *Semester 2, 2026*
-  * Sessional Teaching Assistant
-* **Engineering Programming** | *Semester 1, 2026*
-  * Sessional Teaching Assistant
-* **Signal Processing Applications** | *Semester 1, 2025*
-  * Sessional Teaching Assistant (Undergraduate & Postgraduate)
+
+* **Mobile Communications and Wireless Access** (Semester 2, 2026) – Sessional Teaching Assistant
+* **Engineering Programming** (Semester 1, 2026) – Sessional Teaching Assistant
+* **Signal Processing Applications** (Semester 1, 2025) – Sessional Teaching Assistant (UG & PG)
 
 ### Deakin University
-* **Research and Development in Information Technology** | *Trimester 1, 2024 & Trimester 1, 2023*
-  * Sessional Teaching Assistant
+
+* **Research and Development in Information Technology** (Trimester 1, 2024 & Trimester 1, 2023) – Sessional Teaching Assistant
 
 ---
 
 ## Education
 
-* **Ph.D. in Electrical and Mechanical Engineering** | *Adelaide University* (2022 – 2026)  
-  *Thesis:* Graph-based Methods for Prediction and Control in Non-terrestrial Networks
-* **Master of Data Science** | *Deakin University* (2020 – 2022)  
-* **Bachelor of Computer Engineering** | *Sinhgad Academy of Engineering* (2014 – 2018)
----
+* **Ph.D. in Electrical and Mechanical Engineering** | Adelaide University (2022 – 2026)
+*Thesis:* Graph-based Methods for Prediction and Control in Non-terrestrial Networks
+* **Master of Data Science** | Deakin University (2020 – 2022)
+* **Bachelor of Computer Engineering** | Sinhgad Academy of Engineering (2014 – 2018)
 
+---
 ## Contact & Location
 
 * **Office:** Level 3, Ingkarni Wardli, Adelaide University, SA 5005
