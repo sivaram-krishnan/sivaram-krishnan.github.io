@@ -48,6 +48,8 @@ I completed my Ph.D. at Adelaide University in 2026, supervised by Prof. Jinho C
 
 ## Recent News
 
+* **[2026]** – Paper accepted: *"Learning Dynamics of Mega Constellations for Network State Prediction"* at *IEEE AGERS 2026*.
+* **[2026]** – Paper accepted: *"Graph Koopman AutoEncoder for Prediction-based Network Management in Mega Constellations"* at *ICTC 2026*.
 * **[2026]** – Paper submitted: *"Forecast-Driven Queue Management and Routing in LEO Constellations"* to *IEEE Networking Letters*.
 * **[2026]** – Major revision: *"Toward Scalable SDN for LEO Mega-Constellations: A Graph Learning Approach"* in *IEEE Communications Magazine*.
 * **[2026]** – Ph.D. conferred by Adelaide University.
